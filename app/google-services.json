@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602933972711",
+    "firebase_url": "https://chatapp-da511.firebaseio.com",
+    "project_id": "chatapp-da511",
+    "storage_bucket": "chatapp-da511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602933972711:android:a08e940bad49551d965c42",
+        "android_client_info": {
+          "package_name": "com.droidbaza.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602933972711-9bersh51so5a8gnq1s2329vms67lfo05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2diGutdegU7oVdN0HjKwjpCVoZ9J0EoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602933972711-9bersh51so5a8gnq1s2329vms67lfo05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
